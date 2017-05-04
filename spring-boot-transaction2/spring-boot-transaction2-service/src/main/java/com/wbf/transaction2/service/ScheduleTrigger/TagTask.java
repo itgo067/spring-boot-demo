@@ -1,9 +1,9 @@
 /**
  * Copyright (c) 2017 Wantu, All rights reserved.
  */
-package com.wbf.spring.boot.ScheduleTrigger;
+package com.wbf.transaction2.service.ScheduleTrigger;
 
-import com.wbf.spring.boot.service.TagService;
+import com.wbf.transaction2.service.service.TagService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
